@@ -11,8 +11,8 @@
 /config
 /scripts
 /src/hoc
-/src/shared
-/src/store
+
+
 
 # misc
 .DS_Store
