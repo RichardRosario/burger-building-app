@@ -10,9 +10,7 @@
 /build
 /config
 /scripts
-/src/hoc
-
-
+/src/higher-order/Aux.js
 
 # misc
 .DS_Store
